@@ -1,8 +1,8 @@
 # Hi 👋 I'm Praveen Venkateshan
 
--🎓 Master's in Information Systems graduate from Northeastern University
--💻 Former Software Developer at Tata Consultancy Services (TCS)
--📊 Interested in Data Analytics, Machine Learning, and Automation
+- 🎓 Master's in Information Systems graduate from Northeastern University
+- 💻 Former Software Developer at Tata Consultancy Services (TCS)
+- 📊 Interested in Data Analytics, Machine Learning, and Automation
 
 I enjoy working with data to build insights, develop predictive models, and automate workflows.
 
