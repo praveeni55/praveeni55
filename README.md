@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋 I'm Praveen Venkateshan
 
-<!--
-**praveeni55/praveeni55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's in Information Systems graduate from Northeastern University
+💻 Former Software Developer at Tata Consultancy Services (TCS)
+📊 Interested in Data Analytics, Machine Learning, and Automation
 
-Here are some ideas to get you started:
+I enjoy working with data to build insights, develop predictive models, and automate workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+### Knee Arthroplasty Hospital Inpatient Discharge Analysis
+
+Repository: https://github.com/praveeni55/SickKids---Hospital-Admissions-Data
+
+Analyzed hospital inpatient discharge data for knee arthroplasty procedures to identify factors affecting **total cost and length of stay**.
+Used machine learning models and statistical analysis to determine key cost drivers.
+
+Technologies: Python, Pandas, Scikit-learn, Statsmodels, Jupyter Notebook
+
+---
+
+### SickKids Hospital Admissions Data Analysis
+
+Repository: https://github.com/praveeni55/SickKids---Hospital-Admissions-Data
+
+Performed exploratory data analysis on hospital admission data to understand patient admission patterns and healthcare trends.
+
+Technologies: Python, Pandas, Matplotlib, Jupyter Notebook
+
+---
+
+## 🛠 Skills
+
+Programming: Python, Java, SQL
+Data Analysis: Pandas, NumPy, Statistical Modeling
+Machine Learning: Random Forest, Regression Models
+Visualization: Matplotlib, Power BI
+Tools: Git, Jupyter Notebook
+
+---
+
+## 📫 Connect with me
+
+LinkedIn: https://www.linkedin.com/in/praveenvenkateshan/
