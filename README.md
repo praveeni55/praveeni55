@@ -12,6 +12,8 @@ I enjoy working with data to build insights, develop predictive models, and auto
 
 ### AI Agent for Google Sheets Data Automation Using n8n
 
+Repository: https://github.com/praveeni55/n8n-automation-flows
+
 Developed a no-code workflow in n8n connecting multiple Google Sheets (orders, order_items, payments, customers, products) via APIs to answer queries interactively in chat. Leveraged OpenAI GPT-4.1 to provide insights from sheets with ongoing work for EDA and visualizations.
 
 **Technologies**: n8n, Google Sheets API, OpenAI GPT-4.1, Python
